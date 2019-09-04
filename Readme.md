@@ -69,6 +69,6 @@ escape - - reset all conditions
 
 ### About us
 
-SpaceSoftwares is a team focused on high accuracy image annotation and image segmentation, we target and provide the highest accuracy in semantic segmentation or panoptical segmentation, for auto-driving, general machine learning, tracking, automation; and, we also provide high quality image matting for media, advertisement posts, movies, etc.
+SpaceSoftwares is a team focused on high accuracy image annotation and image segmentation, we target and provide the highest accuracy in semantic segmentation or panoptical segmentation, for auto-driving, medical imaging, general machine learning, tracking, automation; and, we also provide high quality image matting for media, advertisement posts, movies, etc.
 
 We are at your service, for anything please contact us [tansheng@spacesoftwares.com](mailto:tansheng@spacesoftwares.com)

@@ -66,6 +66,11 @@ carriage return-- accept/transfer current results to annotation
 escape - - reset all conditions
 
 
+If you are familiar with QQ-group, please contact us by SpaceServices (262375262), all services are free of charge.
+Your support is highly appreciated.
+如果您熟悉使用QQ群，可以加入我们的服务群SpaceServices (262375262)，我们有专业的工程师负责解答您的问题，一切服务都是免费的。
+您的支持就是我们的动力。
+
 
 ### About us
 

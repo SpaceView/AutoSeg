@@ -57,7 +57,9 @@ You may read the about-> help if you have comments or requirements about these a
 
 
 
-Categories should be carefully manipulated, so some enabling/disabling functions are added, 
+Categories should be carefully manipulated, so some enabling/disabling functions are added,  as below
+
+[CategoryManipulation.gif]
 
 ![](categorymanipulation.gif)
 
@@ -70,6 +72,8 @@ This function is specially design to speed up your annotation.
 The annotations will be saved for you when you click next or previous button, so no time will be wasted when you move on to the next image.
 
 Below you can see that the saving box popups only once for the destination folder of the annotations, 
+
+[if you cannot see the animation, please download the AutoSaving.gif to your computer for a preview].
 
 ![](autosaving.gif)
 

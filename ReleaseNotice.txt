@@ -1,0 +1,7 @@
+version 1.0
+first Release.
+
+version 1.01
+1. remove some useless buttons
+2. add 4 image browsing buttons, for fast image image browsing
+3. add automatic annotation saving function

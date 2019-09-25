@@ -1,8 +1,10 @@
 # Introduction to AutoSeg -- an image annotation tool
 
+For latest updating information please refer to <ReleaseNotice.txt>
+
 Easy and user friendly annotation tool, it supports area annotation, polygon annotation, rectangle annotation. 
 
-Landmarks & points are not finished yet.
+Annotation of landmarks & points are not available yet.
 
 
 
@@ -55,7 +57,25 @@ You may read the about-> help if you have comments or requirements about these a
 
 
 
-### General short key
+Categories should be carefully manipulated, so some enabling/disabling functions are added, 
+
+![](categorymanipulation.gif)
+
+
+
+## Automatic Saving
+
+This function is specially design to speed up your annotation. 
+
+The annotations will be saved for you when you click next or previous button, so no time will be wasted when you move on to the next image.
+
+Below you can see that the saving box popups only once for the destination folder of the annotations, 
+
+![](autosaving.gif)
+
+
+
+## General short key
 
 A/a -- auto smart mode
 F/f -- foreground mode
@@ -65,11 +85,20 @@ carriage return-- accept/transfer current results to annotation
 
 escape - - reset all conditions
 
+
+
+## Donation
+
+We will keep updating this software, any advice are welcome.
+
 如果您熟悉使用QQ群，可以加入我们的服务群SpaceServices (262375262)，我们的工程师会负责解答您的问题。
 
 
-### About us
 
-SpaceSoftwares is a team focused on high accuracy image annotation and image segmentation, we target and provide the highest accuracy in semantic segmentation or panoptical segmentation, for auto-driving, medical imaging, general machine learning, tracking, automation; and, we also provide high quality image matting for media, advertisement posts, movies, etc.
+## About us
 
-We are at your service, for anything please contact us [tansheng@spacesoftwares.com](mailto:tansheng@spacesoftwares.com)
+SpaceSoftwares is a team focused on high accuracy image annotation and image segmentation, we target and provide the highest accuracy in semantic segmentation to auto-driving, medical imaging, general machine learning, tracking, automation, etc.;
+
+We focusing on accuracy improvements,  our AI models are widely applied to industrial applications such as    precision positioning system, defect detection, classification, etc..
+
+For anything please contact us [tansheng@spacesoftwares.com](mailto:tansheng@spacesoftwares.com)

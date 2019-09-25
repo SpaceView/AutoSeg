@@ -73,9 +73,7 @@ The annotations will be saved for you when you click next or previous button, so
 
 Below you can see that the saving box popups only once for the destination folder of the annotations, 
 
-[if you cannot see the animation, please download the AutoSaving.gif to your computer for a preview].
-
-![](autosaving.gif)
+[please download the **AutoSaving.gif** to your computer for a preview].
 
 
 
@@ -96,6 +94,8 @@ escape - - reset all conditions
 We will keep updating this software, any advice are welcome.
 
 如果您熟悉使用QQ群，可以加入我们的服务群SpaceServices (262375262)，我们的工程师会负责解答您的问题。
+
+![](donation.png)
 
 
 

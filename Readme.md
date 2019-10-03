@@ -1,15 +1,15 @@
 # Introduction to AutoSeg -- an image annotation tool
 
+Attension: the tool doesn't accept path with special characters, such as Chinese characters.
+
 For latest updating information please refer to <ReleaseNotice.txt>
 
+# Introduction
 Easy and user friendly annotation tool, it supports area annotation, polygon annotation, rectangle annotation. 
 
 Annotation of landmarks & points are not available yet.
 
-
-
 You may extract imagesTest.7z anywhere in your disk and start testing.
-
 
 
 Functions overview are given as follows,

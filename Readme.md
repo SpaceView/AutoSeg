@@ -101,8 +101,8 @@ We will keep updating this software, any advice are welcome.
 
 ## About us
 
-SpaceSoftwares is a team focused on high accuracy image annotation and image segmentation, we target and provide the highest accuracy in semantic segmentation to auto-driving, medical imaging, general machine learning, tracking, automation, etc.;
+SpaceSoftwares is a team focused on high accuracy computer vision application. Here we target to provide the highest accuracy in semantic segmentation to auto-driving, medical imaging, general machine learning, tracking, automation, etc.;
 
-We focusing on accuracy improvements,  our AI models are widely applied to industrial applications such as    precision positioning system, defect detection, classification, etc..
+We focusing on accuracy improvements,  our AI models are widely applied to industrial applications such as  precision positioning system, defect detection, classification, etc..
 
 For anything please contact us [tansheng@spacesoftwares.com](mailto:tansheng@spacesoftwares.com)

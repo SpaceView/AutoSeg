@@ -38,7 +38,8 @@ When the polygon is acceptable, click the check button (or press the carriage re
 
 
 The annotation files are saves as json format, mainly coco format, you need a category file for all annotations.
-
+For Area Annotation, it is binary RLE code, the same as coco json rules.
+If you need c++ code for your application, please check the mask-api files for detail, please note our mask-api has updated to support both horizontal and vertical scanlines, while coco-api only supports vertical scanlines.
 
 
 Different from coco format (2 level), Autoseg accepts multiple levels of annotation, you may check the menu category->setup to see the results.

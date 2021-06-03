@@ -96,7 +96,6 @@ escape - - reset all conditions
 
 We will keep updating this software, any advice are welcome.
 
-如果您熟悉使用QQ群，可以加入我们的服务群SpaceServices (262375262)，我们的工程师会负责解答您的问题。
 
 ![](donation.png)
 

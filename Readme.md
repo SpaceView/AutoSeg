@@ -5,7 +5,9 @@ https://github.com/SpaceView/AutoSegProfessional
 which has far more functionalities.  
 I developed this software tools in 2018, for segment annotation it still has the highest accuracy as far as I know.
 The segmentation tutorial is at
+
 https://github.com/SpaceView/AutoSegProfessional/tree/main/tutorial_AutoEdge_AutoSeg
+
 Please read the tutorials before you start your work.
 
   

@@ -1,3 +1,8 @@
+# NOTE: AutoSeg Professional is available for downloading
+https://github.com/SpaceView/AutoSegProfessional
+which has far more functionalities.  
+
+  
 # Introduction to AutoSeg -- an image annotation tool
 
 Attension: the tool doesn't accept path with special characters, such as Chinese characters.
